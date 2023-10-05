@@ -74,7 +74,5 @@ int main(void)
 	tax = income * tax_rate;
 	printf("세금은 : %.1lf입니다.\n", tax);
 
-
-
 	return 0;
 }
