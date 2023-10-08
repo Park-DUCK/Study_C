@@ -55,7 +55,7 @@ int main(void)
 	// 4-12 조건 연산자
 	int k = 10, l = 20, res5;
 
-	res5 = (k > l) ? k : l;
+	res5 = (k > l) ? k : l; // k, l 중 큰 값이 res5에 저장
 	printf("큰 값 : %d\n", res5);
 
 	return 0;
