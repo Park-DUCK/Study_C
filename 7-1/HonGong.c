@@ -5,7 +5,6 @@ int sum(int x, int y);
 int main(void)
 {
 	// 7-1 : 2개의 함수로 만든 프로그램
-
 	int a = 10, b = 20;
 	int result;
 
